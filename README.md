@@ -2,7 +2,8 @@
 
 - ✔ Estudante de Engenharia de Software na Unicesumar 4° Período
 -    🌪 Atualmente estudando Estrutura de Dados I e II em C++
--    Cursando FrontEnd na Alura 
+-    Cursando FrontEnd na Alura e aprendendo mais a linguagem C
+-    Currículo Alura - https://cursos.alura.com.br/user/gilson-barreto2009/fullCertificate/8c71adf13b96f857d6b695bba9da7858
 
 <div align="center">
   <a href="https://github.com/gilsonbs">
