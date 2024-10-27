@@ -1,9 +1,11 @@
-## Opa, eu sou Gilson Barreto
+## Gilson Barreto da Silva
 
-- ✔ Estudante de Engenharia de Software na Unicesumar Último Período
--    🌪 Atualmente estudando Estrutura de Dados I e II em C++
--    Cursando Java Developer na DIO
--    Currículo Alura - https://cursos.alura.com.br/user/gilson-barreto2009/fullCertificate/8c71adf13b96f857d6b695bba9da7858
+- ✔ Engenheiro de Software
+-    🌪 Pos Graduando em IA, Machine Learning e Data Science
+-    Cursando Frontend na DIO
+-    [Currículo Alura](https://cursos.alura.com.br/user/gilson-barreto2009/fullCertificate/8c71adf13b96f857d6b695bba9da7858)
+-    [Currículo DIO](https://www.dio.me/users/gilson_barreto2009)
+-    [GITHUB](https://github.com/gilsonbs/gilsonbarreto)
 
 <div align="center">
   <a href="https://github.com/gilsonbs">
@@ -15,6 +17,16 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  
+            
+  
                   
 </div>
   
